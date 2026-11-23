@@ -184,4 +184,5 @@ npm run build        # Compiles all 27 pages with static optimization
   - Certificates: `BK-YYYY-XXXXXX`
 - **Enrollment Workflow**: Enforces capacity limits, prevents duplicate active applications for the same course, and tracks reviewer identity and timestamps.
 - **Certificate Verification**: Public endpoint and verification page disclosure reveals only minimum required data (Student Name, Course, Issue Date, Validity) preserving student confidentiality.#   t e s t - a p  
+ #   t e s t - a p  
  
