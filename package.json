@@ -1,0 +1,16 @@
+{
+  "name": "bakka-training-center-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "seed": "npm --prefix backend run seed",
+    "test:backend": "npm --prefix backend run test"
+  }
+}
